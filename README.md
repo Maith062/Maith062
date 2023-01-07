@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-Coding to me a strange and fascinating thing, so as I navigate it, I'l' post whatever projects I have here.
+Coding to me a strange and fascinating thing, so as I navigate it, I'll post whatever projects I have here.
 
 If you're interested in contacting me for _professional_ reasons, the email is: **maith062@uottawa.ca**
 
