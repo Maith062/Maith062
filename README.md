@@ -1,6 +1,6 @@
 ### Hello World 👋
 
-Coding to me a strange and fascinating thing, so as I navigate it, I'll post whatever projects I have here.
+Computer languages are a strange and fascinating thing. As I continue to learn new skills and develop projects, I'll post whatever projects I've created here, on my GitHub. 
 
 If you're interested in contacting me for _professional_ reasons, the email is: **maith062@uottawa.ca**
 
