@@ -1,4 +1,4 @@
-### Heya 👋
+### Hey, there! 👋
 
 Computer languages are a strange and fascinating thing. As I continue to learn new skills and develop projects, I'll post whatever projects I've created here, on my GitHub. 
 
